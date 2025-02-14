@@ -36,8 +36,8 @@ Full stack developer with a strong backend focus, proud ALX Software Engineering
 </div>
 
 ### 🔧 Frameworks & Tools
-Frameworks: Python Flask, HTML & CSS
-Tools & Technologies: Git, AWS, SQL, NoSQL
+- Frameworks: Python Flask, HTML & CSS
+- Tools & Technologies: Git, AWS, SQL, NoSQL
 <div align="center">
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
