@@ -49,7 +49,7 @@ Full stack developer with a strong backend focus, proud ALX Software Engineering
   - Developed and maintained scalable REST APIs
   - Implemented secure user authentication and authorization
   - Optimized database queries for improved performance
-- [GitHub Repo]([repo-link)(https://github.com/PreciousEzeigbo/Thinky-Tots)]
+- [GitHub Repo]([repo-link](https://github.com/PreciousEzeigbo/Thinky-Tots))
 
 ### FitConnect
 - **Role:** Full Stack Developer
@@ -64,7 +64,7 @@ Full stack developer with a strong backend focus, proud ALX Software Engineering
   - Implemented secure user authentication system
   - Designed efficient database schema
   - Built responsive frontend components
-- [GitHub Repo][(repo-link)(https://github.com/PreciousEzeigbo/Portfolio_project)]
+- [GitHub Repo]([repo-link](https://github.com/PreciousEzeigbo/Portfolio_project))
 
 ## 🎓 Certifications
 - ALX Software Engineering Program Graduate
