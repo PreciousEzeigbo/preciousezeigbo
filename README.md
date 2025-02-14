@@ -18,6 +18,12 @@
 Full stack developer with a strong backend focus, proud ALX Software Engineering Program graduate. I specialize in building robust server-side applications while maintaining competency across the full development stack. When I'm not coding, you'll find me immersed in anime, enjoying football (¡Hala Madrid!), or listening to music. My passion for technology extends beyond web development – I'm fascinated by the potential of blockchain technology and game development, which are areas I'm excited to explore in my future projects.
 
 ## 💻 Technical Skills
+- Python
+- C
+- HTML
+- CSS
+
+
 
 <div align="center">
 
@@ -30,6 +36,8 @@ Full stack developer with a strong backend focus, proud ALX Software Engineering
 </div>
 
 ### 🔧 Frameworks & Tools
+Frameworks: Python Flask, HTML & CSS
+Tools & Technologies: Git, AWS, SQL, NoSQL
 <div align="center">
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
