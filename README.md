@@ -4,18 +4,18 @@
 </div>
 
 # 👋 Hi, I'm Precious Ezeigbo
-### ALX Software Engineering Graduate | Full Stack Developer (Backend Focused)
+### ALX Software Engineering Graduate |  (Backend Focused)
 
 <div align="center">
   
-[![Portfolio](https://img.shields.io/badge/Portfolio-0066cc?style=for-the-badge&logo=google-chrome&logoColor=white)](your-portfolio-url)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0066cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precious-ezeigbo)
 [![Twitter](https://img.shields.io/badge/X-0066cc?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/preciousezeigbo)
 
 </div>
 
 ## 🚀 About Me
-Full stack developer with a strong backend focus, proud ALX Software Engineering Program graduate. I specialize in building robust server-side applications while maintaining competency across the full development stack. When I'm not coding, you'll find me immersed in anime, enjoying football (¡Hala Madrid!), or listening to music. My passion for technology extends beyond web development – I'm fascinated by the potential of blockchain technology and game development, which are areas I'm excited to explore in my future projects.
+Backend developer, a proud ALX Software Engineering Program graduate. I specialize in building robust server-side applications while maintaining competency across the development stack. When I'm not coding, you'll find me immersed in anime, enjoying football (¡Hala Madrid!), or listening to music. My passion for technology extends beyond web development – I'm fascinated by the potential of blockchain technology and game development, which are areas I'm excited to explore in my future projects.
 
 ## 💻 Technical Skills
 - Python
