@@ -8,7 +8,7 @@
 
 <div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0066cc?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precious-ezeigbo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0066cc?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/precious-ezeigbo](https://www.linkedin.com/in/precious-ezeigbo-38902b247/))
 [![Twitter](https://img.shields.io/badge/X-0066cc?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/preciousezeigbo)
 
 </div>
