@@ -68,7 +68,7 @@ Software Engineer (Backend focused), a proud ALX Software Engineering Program gr
 ## 📫 Get in Touch
 - 💼 Open for Software Engineering Positions  
 - 📧 Email: preciousezeigbo81@gmail.com  
-- 🌐 Portfolio: preciousezeigbo.github.io
+- 🌐 Portfolio: [preciousezeigbo.github.io](https://preciousezeigbo.github.io)
 
 
 
